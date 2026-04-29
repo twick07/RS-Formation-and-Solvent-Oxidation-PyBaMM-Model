@@ -1,0 +1,21 @@
+# Python >= 3.12 required
+
+# PyBaMM fork
+pybamm @ git+https://github.com/twick07/pybamm_wickramanayake2026.git
+
+# Core scientific stack
+numpy==1.26.4
+scipy==1.17.1
+matplotlib==3.10.9
+pandas==3.0.2
+casadi==3.7.2
+sympy==1.14.0
+xarray==2026.4.0
+
+# PyBaMM dependencies
+pybammsolvers==0.7.0
+anytree==2.13.0
+pooch==1.9.0
+requests==2.33.1
+packaging==26.2
+PyYAML==6.0.3
