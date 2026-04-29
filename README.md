@@ -31,12 +31,14 @@ Before starting, ensure the following are installed on your system:
 - **Python 3.12** — download from [python.org](https://www.python.org/downloads/)
 - **Git** — download from [git-scm.com](https://git-scm.com/downloads). Note: GitHub Desktop does not add Git to the system PATH, so a standalone Git installation is required.
 
-### 1. Clone this repository
+### 1. Clone this repository and navigate into it
 
 ```bash
 git clone https://github.com/twick07/RS-Formation-and-Solvent-Oxidation-PyBaMM-Model.git
 cd RS-Formation-and-Solvent-Oxidation-PyBaMM-Model
 ```
+
+> **Important:** all subsequent steps must be run from inside the `RS-Formation-and-Solvent-Oxidation-PyBaMM-Model` folder.
 
 ### 2. Create and activate a virtual environment
 
@@ -53,6 +55,8 @@ macOS/Linux:
 ```bash
 source .venv/bin/activate
 ```
+
+Your terminal prompt should show `(.venv)` once activated.
 
 ### 3. Install dependencies
 
