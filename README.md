@@ -24,7 +24,12 @@ Experimental and parameter data required by the scripts are located in the `Data
 
 ## Installation
 
-**Requirements:** Python 3.12, Git
+### Prerequisites
+
+Before starting, ensure the following are installed on your system:
+
+- **Python 3.12** — download from [python.org](https://www.python.org/downloads/)
+- **Git** — download from [git-scm.com](https://git-scm.com/downloads). Note: GitHub Desktop does not add Git to the system PATH, so a standalone Git installation is required.
 
 ### 1. Clone this repository
 
